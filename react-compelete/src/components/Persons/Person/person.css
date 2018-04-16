@@ -1,0 +1,19 @@
+.Person{
+width:60%;
+margin:16px auto;
+border: 1px solid #eee;
+box-shadow: 0 2px 3px #ccc;
+padding: 16px;
+text-align:center;
+
+
+}
+.buttonDel{
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    background-color: red;
+color: white;
+padding:8px;
+        cursor:pointer;
+margin-left: 100px;
+}
